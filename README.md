@@ -1,6 +1,6 @@
 # Seja Bem Vindo
 
-Me chamo **Deibson Fagner** e espero que os projetos que estão disponiveis no repositório possa lhe ajudar \
+Me chamo **Deibson Fagner** e espero que, os projetos que estão disponiveis no repositório possa lhe ajudar \
 e/ou esclarecer alguma dúvida. 
 
 Você também pode contribuir em nossos projetos e assim juntos podemos enriquecer \
