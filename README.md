@@ -41,6 +41,6 @@ os recursos disponíveis na comunidade e compartilhar estudos, conhecimentos, ex
 - Activity
 - POO
 - CRUD
-- Algumas bancos de dados...
+- Alguns bancos de dados...
 ```
 ## Ao infinito e além...🚀🚀🚀
